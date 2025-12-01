@@ -1,3 +1,0 @@
-1|user1|Sapi|50|accepted
-2|user3|Ayam|50|accepted
-3|user2|Kambing|30|accepted
